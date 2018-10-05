@@ -1,0 +1,814 @@
+2018-10-01T03:03:05.050Z info: init started
+2018-10-01T03:03:05.115Z info: init completed
+2018-10-01T03:03:05.115Z info: navigate started
+2018-10-01T03:03:05.514Z info: navigate completed
+2018-10-01T03:03:05.515Z info: wait_for_selector:
+2018-10-01T03:03:05.515Z info:    #catAll
+2018-10-01T03:03:05.515Z info: await evaluate...attepmts left=99
+2018-10-01T03:03:05.524Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:03:05.524Z info: waiting 300ms...
+2018-10-01T03:03:05.827Z info: waiting 300ms...ok
+2018-10-01T03:03:05.827Z info: await evaluate...attepmts left=98
+2018-10-01T03:03:05.829Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:05.830Z info: wait_for_selector:ok
+2018-10-01T03:03:05.830Z info: wait_for_selector:
+2018-10-01T03:03:05.831Z info:    #catAll
+2018-10-01T03:03:05.831Z info: await evaluate...attepmts left=299
+2018-10-01T03:03:05.832Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:05.832Z info: wait_for_selector:ok
+2018-10-01T03:03:06.254Z info: init started
+2018-10-01T03:03:06.327Z info: init completed
+2018-10-01T03:03:06.328Z info: navigate started
+2018-10-01T03:03:06.503Z info: navigate completed
+2018-10-01T03:03:06.504Z info: wait_for_selector:
+2018-10-01T03:03:06.504Z info:    #content > div
+2018-10-01T03:03:06.504Z info: await evaluate...attepmts left=99
+2018-10-01T03:03:06.513Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:03:06.514Z info: waiting 300ms...
+2018-10-01T03:03:06.816Z info: waiting 300ms...ok
+2018-10-01T03:03:06.816Z info: await evaluate...attepmts left=98
+2018-10-01T03:03:06.819Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:06.819Z info: wait_for_selector:ok
+2018-10-01T03:03:06.822Z info: wait_for_selector:
+2018-10-01T03:03:06.822Z info:    #tocs-2 > ul
+2018-10-01T03:03:06.822Z info: await evaluate...attepmts left=99
+2018-10-01T03:03:07.208Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:03:07.209Z info: waiting 300ms...
+2018-10-01T03:03:07.509Z info: waiting 300ms...ok
+2018-10-01T03:03:07.510Z info: await evaluate...attepmts left=98
+2018-10-01T03:03:07.511Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:07.511Z info: wait_for_selector:ok
+2018-10-01T03:03:07.512Z info: wait_for_selector:
+2018-10-01T03:03:07.512Z info:    #tocs-2 > ul
+2018-10-01T03:03:07.512Z info: await evaluate...attepmts left=299
+2018-10-01T03:03:07.513Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:07.513Z info: wait_for_selector:ok
+2018-10-01T03:03:07.930Z info: init started
+2018-10-01T03:03:07.995Z info: init completed
+2018-10-01T03:03:07.995Z info: navigate started
+2018-10-01T03:03:08.189Z info: navigate completed
+2018-10-01T03:03:08.190Z info: wait_for_selector:
+2018-10-01T03:03:08.190Z info:    #content > div
+2018-10-01T03:03:08.190Z info: await evaluate...attepmts left=99
+2018-10-01T03:03:08.218Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:03:08.218Z info: waiting 300ms...
+2018-10-01T03:03:08.530Z info: waiting 300ms...ok
+2018-10-01T03:03:08.530Z info: await evaluate...attepmts left=98
+2018-10-01T03:03:08.535Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:03:08.535Z info: wait_for_selector:ok
+2018-10-01T03:03:08.543Z info: wait_for_selector:
+2018-10-01T03:03:08.543Z info:    #tocs-2 > ul
+2018-10-01T03:03:08.543Z info: await evaluate...attepmts left=99
+2018-10-01T03:03:08.910Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:03:08.910Z info: waiting 300ms...
+2018-10-01T03:08:01.758Z info: init started
+2018-10-01T03:08:01.826Z info: init completed
+2018-10-01T03:08:01.826Z info: navigate started
+2018-10-01T03:08:02.319Z info: navigate completed
+2018-10-01T03:08:02.319Z info: wait_for_selector:
+2018-10-01T03:08:02.319Z info:    #catAll
+2018-10-01T03:08:02.319Z info: await evaluate...attepmts left=99
+2018-10-01T03:08:02.328Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:08:02.328Z info: waiting 300ms...
+2018-10-01T03:08:02.632Z info: waiting 300ms...ok
+2018-10-01T03:08:02.632Z info: await evaluate...attepmts left=98
+2018-10-01T03:08:02.634Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:02.634Z info: wait_for_selector:ok
+2018-10-01T03:08:02.634Z info: wait_for_selector:
+2018-10-01T03:08:02.634Z info:    #catAll
+2018-10-01T03:08:02.634Z info: await evaluate...attepmts left=299
+2018-10-01T03:08:02.636Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:02.636Z info: wait_for_selector:ok
+2018-10-01T03:08:03.061Z info: init started
+2018-10-01T03:08:03.126Z info: init completed
+2018-10-01T03:08:03.126Z info: navigate started
+2018-10-01T03:08:03.321Z info: navigate completed
+2018-10-01T03:08:03.322Z info: wait_for_selector:
+2018-10-01T03:08:03.322Z info:    #content > div
+2018-10-01T03:08:03.322Z info: await evaluate...attepmts left=99
+2018-10-01T03:08:03.350Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:08:03.350Z info: waiting 300ms...
+2018-10-01T03:08:03.663Z info: waiting 300ms...ok
+2018-10-01T03:08:03.663Z info: await evaluate...attepmts left=98
+2018-10-01T03:08:03.668Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:03.669Z info: wait_for_selector:ok
+2018-10-01T03:08:03.677Z info: wait_for_selector:
+2018-10-01T03:08:03.678Z info:    #tocs-2 > ul
+2018-10-01T03:08:03.678Z info: await evaluate...attepmts left=99
+2018-10-01T03:08:04.229Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:08:04.229Z info: waiting 300ms...
+2018-10-01T03:08:04.530Z info: waiting 300ms...ok
+2018-10-01T03:08:04.530Z info: await evaluate...attepmts left=98
+2018-10-01T03:08:04.532Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:04.532Z info: wait_for_selector:ok
+2018-10-01T03:08:04.532Z info: wait_for_selector:
+2018-10-01T03:08:04.532Z info:    #tocs-2 > ul
+2018-10-01T03:08:04.532Z info: await evaluate...attepmts left=299
+2018-10-01T03:08:04.533Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:04.533Z info: wait_for_selector:ok
+2018-10-01T03:08:04.946Z info: init started
+2018-10-01T03:08:05.017Z info: init completed
+2018-10-01T03:08:05.018Z info: navigate started
+2018-10-01T03:08:05.268Z info: navigate completed
+2018-10-01T03:08:05.268Z info: wait_for_selector:
+2018-10-01T03:08:05.269Z info:    #content > div
+2018-10-01T03:08:05.269Z info: await evaluate...attepmts left=99
+2018-10-01T03:08:05.280Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:08:05.281Z info: waiting 300ms...
+2018-10-01T03:08:05.584Z info: waiting 300ms...ok
+2018-10-01T03:08:05.584Z info: await evaluate...attepmts left=98
+2018-10-01T03:08:05.586Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:05.586Z info: wait_for_selector:ok
+2018-10-01T03:08:05.590Z info: wait_for_selector:
+2018-10-01T03:08:05.590Z info:    #tocs-2 > ul
+2018-10-01T03:08:05.590Z info: await evaluate...attepmts left=99
+2018-10-01T03:08:06.019Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:08:06.019Z info: waiting 300ms...
+2018-10-01T03:08:06.320Z info: waiting 300ms...ok
+2018-10-01T03:08:06.320Z info: await evaluate...attepmts left=98
+2018-10-01T03:08:06.322Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:06.322Z info: wait_for_selector:ok
+2018-10-01T03:08:06.322Z info: wait_for_selector:
+2018-10-01T03:08:06.322Z info:    #tocs-2 > ul
+2018-10-01T03:08:06.322Z info: await evaluate...attepmts left=299
+2018-10-01T03:08:06.323Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:08:06.323Z info: wait_for_selector:ok
+2018-10-01T03:08:06.743Z info: init started
+2018-10-01T03:08:06.810Z info: init completed
+2018-10-01T03:08:06.810Z info: navigate started
+2018-10-01T03:09:31.594Z info: init started
+2018-10-01T03:09:31.668Z info: init completed
+2018-10-01T03:09:31.668Z info: navigate started
+2018-10-01T03:09:32.102Z info: navigate completed
+2018-10-01T03:09:32.102Z info: wait_for_selector:
+2018-10-01T03:09:32.102Z info:    #catAll
+2018-10-01T03:09:32.102Z info: await evaluate...attepmts left=99
+2018-10-01T03:09:32.112Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:09:32.112Z info: waiting 300ms...
+2018-10-01T03:09:32.415Z info: waiting 300ms...ok
+2018-10-01T03:09:32.415Z info: await evaluate...attepmts left=98
+2018-10-01T03:09:32.417Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:32.417Z info: wait_for_selector:ok
+2018-10-01T03:09:32.417Z info: wait_for_selector:
+2018-10-01T03:09:32.418Z info:    #catAll
+2018-10-01T03:09:32.418Z info: await evaluate...attepmts left=299
+2018-10-01T03:09:32.419Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:32.419Z info: wait_for_selector:ok
+2018-10-01T03:09:32.829Z info: init started
+2018-10-01T03:09:32.896Z info: init completed
+2018-10-01T03:09:32.896Z info: navigate started
+2018-10-01T03:09:33.083Z info: navigate completed
+2018-10-01T03:09:33.084Z info: wait_for_selector:
+2018-10-01T03:09:33.084Z info:    #content > div
+2018-10-01T03:09:33.084Z info: await evaluate...attepmts left=99
+2018-10-01T03:09:33.092Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:09:33.093Z info: waiting 300ms...
+2018-10-01T03:09:33.403Z info: waiting 300ms...ok
+2018-10-01T03:09:33.404Z info: await evaluate...attepmts left=98
+2018-10-01T03:09:33.409Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:33.409Z info: wait_for_selector:ok
+2018-10-01T03:09:33.418Z info: wait_for_selector:
+2018-10-01T03:09:33.419Z info:    #tocs-2 > ul
+2018-10-01T03:09:33.419Z info: await evaluate...attepmts left=99
+2018-10-01T03:09:33.766Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:09:33.766Z info: waiting 300ms...
+2018-10-01T03:09:34.066Z info: waiting 300ms...ok
+2018-10-01T03:09:34.067Z info: await evaluate...attepmts left=98
+2018-10-01T03:09:34.069Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:34.069Z info: wait_for_selector:ok
+2018-10-01T03:09:34.069Z info: wait_for_selector:
+2018-10-01T03:09:34.069Z info:    #tocs-2 > ul
+2018-10-01T03:09:34.069Z info: await evaluate...attepmts left=299
+2018-10-01T03:09:34.071Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:34.071Z info: wait_for_selector:ok
+2018-10-01T03:09:34.482Z info: init started
+2018-10-01T03:09:34.549Z info: init completed
+2018-10-01T03:09:34.550Z info: navigate started
+2018-10-01T03:09:34.811Z info: navigate completed
+2018-10-01T03:09:34.812Z info: wait_for_selector:
+2018-10-01T03:09:34.812Z info:    #content > div
+2018-10-01T03:09:34.812Z info: await evaluate...attepmts left=99
+2018-10-01T03:09:34.821Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:09:34.821Z info: waiting 300ms...
+2018-10-01T03:09:35.126Z info: waiting 300ms...ok
+2018-10-01T03:09:35.126Z info: await evaluate...attepmts left=98
+2018-10-01T03:09:35.128Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:35.128Z info: wait_for_selector:ok
+2018-10-01T03:09:35.132Z info: wait_for_selector:
+2018-10-01T03:09:35.132Z info:    #tocs-2 > ul
+2018-10-01T03:09:35.132Z info: await evaluate...attepmts left=99
+2018-10-01T03:09:35.752Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:09:35.752Z info: waiting 300ms...
+2018-10-01T03:09:36.053Z info: waiting 300ms...ok
+2018-10-01T03:09:36.053Z info: await evaluate...attepmts left=98
+2018-10-01T03:09:36.055Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:36.055Z info: wait_for_selector:ok
+2018-10-01T03:09:36.055Z info: wait_for_selector:
+2018-10-01T03:09:36.055Z info:    #tocs-2 > ul
+2018-10-01T03:09:36.055Z info: await evaluate...attepmts left=299
+2018-10-01T03:09:36.057Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:09:36.057Z info: wait_for_selector:ok
+2018-10-01T03:09:36.467Z info: init started
+2018-10-01T03:09:36.530Z info: init completed
+2018-10-01T03:09:36.531Z info: navigate started
+2018-10-01T03:15:16.431Z info: init started
+2018-10-01T03:15:16.500Z info: init completed
+2018-10-01T03:15:16.501Z info: navigate started
+2018-10-01T03:15:17.061Z info: navigate completed
+2018-10-01T03:15:17.062Z info: wait_for_selector:
+2018-10-01T03:15:17.063Z info:    #catAll
+2018-10-01T03:15:17.063Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:17.095Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:17.096Z info: waiting 300ms...
+2018-10-01T03:15:17.408Z info: waiting 300ms...ok
+2018-10-01T03:15:17.408Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:17.414Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:17.414Z info: wait_for_selector:ok
+2018-10-01T03:15:17.415Z info: wait_for_selector:
+2018-10-01T03:15:17.415Z info:    #catAll
+2018-10-01T03:15:17.416Z info: await evaluate...attepmts left=299
+2018-10-01T03:15:17.420Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:17.421Z info: wait_for_selector:ok
+2018-10-01T03:15:17.872Z info: init started
+2018-10-01T03:15:17.950Z info: init completed
+2018-10-01T03:15:17.950Z info: navigate started
+2018-10-01T03:15:18.121Z info: navigate completed
+2018-10-01T03:15:18.122Z info: wait_for_selector:
+2018-10-01T03:15:18.123Z info:    #content > div
+2018-10-01T03:15:18.123Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:18.148Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:18.149Z info: waiting 300ms...
+2018-10-01T03:15:18.461Z info: waiting 300ms...ok
+2018-10-01T03:15:18.461Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:18.467Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:18.467Z info: wait_for_selector:ok
+2018-10-01T03:15:18.474Z info: wait_for_selector:
+2018-10-01T03:15:18.474Z info:    #tocs-2 > ul
+2018-10-01T03:15:18.474Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:19.057Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:19.057Z info: waiting 300ms...
+2018-10-01T03:15:19.359Z info: waiting 300ms...ok
+2018-10-01T03:15:19.359Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:19.369Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:19.369Z info: wait_for_selector:ok
+2018-10-01T03:15:19.369Z info: wait_for_selector:
+2018-10-01T03:15:19.369Z info:    #tocs-2 > ul
+2018-10-01T03:15:19.369Z info: await evaluate...attepmts left=299
+2018-10-01T03:15:19.373Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:19.374Z info: wait_for_selector:ok
+2018-10-01T03:15:19.790Z info: init started
+2018-10-01T03:15:19.853Z info: init completed
+2018-10-01T03:15:19.853Z info: navigate started
+2018-10-01T03:15:20.365Z info: navigate completed
+2018-10-01T03:15:20.366Z info: wait_for_selector:
+2018-10-01T03:15:20.366Z info:    #post-content > div
+2018-10-01T03:15:20.366Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:20.397Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:20.397Z info: waiting 300ms...
+2018-10-01T03:15:20.702Z info: waiting 300ms...ok
+2018-10-01T03:15:20.702Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:20.704Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:20.704Z info: wait_for_selector:ok
+2018-10-01T03:15:21.205Z info: init started
+2018-10-01T03:15:21.270Z info: init completed
+2018-10-01T03:15:21.270Z info: navigate started
+2018-10-01T03:15:21.765Z info: navigate completed
+2018-10-01T03:15:21.766Z info: wait_for_selector:
+2018-10-01T03:15:21.767Z info:    #post-content > div
+2018-10-01T03:15:21.767Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:21.800Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:21.801Z info: waiting 300ms...
+2018-10-01T03:15:22.112Z info: waiting 300ms...ok
+2018-10-01T03:15:22.113Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:22.118Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:22.118Z info: wait_for_selector:ok
+2018-10-01T03:15:22.672Z info: init started
+2018-10-01T03:15:22.736Z info: init completed
+2018-10-01T03:15:22.737Z info: navigate started
+2018-10-01T03:15:23.253Z info: navigate completed
+2018-10-01T03:15:23.254Z info: wait_for_selector:
+2018-10-01T03:15:23.254Z info:    #post-content > div
+2018-10-01T03:15:23.255Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:23.280Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:23.281Z info: waiting 300ms...
+2018-10-01T03:15:23.584Z info: waiting 300ms...ok
+2018-10-01T03:15:23.585Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:23.586Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:23.586Z info: wait_for_selector:ok
+2018-10-01T03:15:24.087Z info: init started
+2018-10-01T03:15:24.150Z info: init completed
+2018-10-01T03:15:24.150Z info: navigate started
+2018-10-01T03:15:24.677Z info: navigate completed
+2018-10-01T03:15:24.677Z info: wait_for_selector:
+2018-10-01T03:15:24.677Z info:    #post-content > div
+2018-10-01T03:15:24.677Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:24.686Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:24.686Z info: waiting 300ms...
+2018-10-01T03:15:24.989Z info: waiting 300ms...ok
+2018-10-01T03:15:24.989Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:24.991Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:24.991Z info: wait_for_selector:ok
+2018-10-01T03:15:25.514Z info: init started
+2018-10-01T03:15:25.577Z info: init completed
+2018-10-01T03:15:25.577Z info: navigate started
+2018-10-01T03:15:26.114Z info: navigate completed
+2018-10-01T03:15:26.115Z info: wait_for_selector:
+2018-10-01T03:15:26.115Z info:    #post-content > div
+2018-10-01T03:15:26.115Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:26.143Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:26.143Z info: waiting 300ms...
+2018-10-01T03:15:26.450Z info: waiting 300ms...ok
+2018-10-01T03:15:26.450Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:26.454Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:26.454Z info: wait_for_selector:ok
+2018-10-01T03:15:27.007Z info: init started
+2018-10-01T03:15:27.074Z info: init completed
+2018-10-01T03:15:27.074Z info: navigate started
+2018-10-01T03:15:27.573Z info: navigate completed
+2018-10-01T03:15:27.573Z info: wait_for_selector:
+2018-10-01T03:15:27.573Z info:    #post-content > div
+2018-10-01T03:15:27.573Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:27.591Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:27.591Z info: waiting 300ms...
+2018-10-01T03:15:27.902Z info: waiting 300ms...ok
+2018-10-01T03:15:27.902Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:27.907Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:27.908Z info: wait_for_selector:ok
+2018-10-01T03:15:28.464Z info: init started
+2018-10-01T03:15:28.528Z info: init completed
+2018-10-01T03:15:28.529Z info: navigate started
+2018-10-01T03:15:29.060Z info: navigate completed
+2018-10-01T03:15:29.061Z info: wait_for_selector:
+2018-10-01T03:15:29.062Z info:    #post-content > div
+2018-10-01T03:15:29.062Z info: await evaluate...attepmts left=99
+2018-10-01T03:15:29.091Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-01T03:15:29.092Z info: waiting 300ms...
+2018-10-01T03:15:29.396Z info: waiting 300ms...ok
+2018-10-01T03:15:29.396Z info: await evaluate...attepmts left=98
+2018-10-01T03:15:29.398Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-01T03:15:29.398Z info: wait_for_selector:ok
+2018-10-01T03:15:29.971Z info: init started
+2018-10-01T03:15:30.033Z info: init completed
+2018-10-01T03:15:30.033Z info: navigate started
+2018-10-02T22:19:15.119Z info: init started
+2018-10-02T22:20:10.595Z info: init started
+2018-10-02T22:20:10.695Z info: init completed
+2018-10-02T22:20:10.695Z info: navigate started
+2018-10-02T22:20:11.326Z info: navigate completed
+2018-10-02T22:20:11.327Z info: wait_for_selector:
+2018-10-02T22:20:11.327Z info:    #catAll
+2018-10-02T22:20:11.328Z info: await evaluate...attepmts left=99
+2018-10-02T22:20:11.387Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:11.387Z info: waiting 300ms...
+2018-10-02T22:20:11.695Z info: waiting 300ms...ok
+2018-10-02T22:20:11.696Z info: await evaluate...attepmts left=98
+2018-10-02T22:20:11.718Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:11.719Z info: waiting 300ms...
+2018-10-02T22:20:12.020Z info: waiting 300ms...ok
+2018-10-02T22:20:12.021Z info: await evaluate...attepmts left=97
+2018-10-02T22:20:12.159Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:12.159Z info: wait_for_selector:ok
+2018-10-02T22:20:12.159Z info: wait_for_selector:
+2018-10-02T22:20:12.159Z info:    #catAll
+2018-10-02T22:20:12.159Z info: await evaluate...attepmts left=299
+2018-10-02T22:20:12.249Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:12.249Z info: wait_for_selector:ok
+2018-10-02T22:20:12.758Z info: init started
+2018-10-02T22:20:12.833Z info: init completed
+2018-10-02T22:20:12.833Z info: navigate started
+2018-10-02T22:20:13.087Z info: navigate completed
+2018-10-02T22:20:13.088Z info: wait_for_selector:
+2018-10-02T22:20:13.089Z info:    #content > div
+2018-10-02T22:20:13.089Z info: await evaluate...attepmts left=99
+2018-10-02T22:20:13.121Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:13.121Z info: waiting 300ms...
+2018-10-02T22:20:13.426Z info: waiting 300ms...ok
+2018-10-02T22:20:13.426Z info: await evaluate...attepmts left=98
+2018-10-02T22:20:13.429Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:13.429Z info: wait_for_selector:ok
+2018-10-02T22:20:13.435Z info: wait_for_selector:
+2018-10-02T22:20:13.435Z info:    #tocs-2 > ul
+2018-10-02T22:20:13.435Z info: await evaluate...attepmts left=99
+2018-10-02T22:20:14.136Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:14.136Z info: waiting 300ms...
+2018-10-02T22:20:14.437Z info: waiting 300ms...ok
+2018-10-02T22:20:14.438Z info: await evaluate...attepmts left=98
+2018-10-02T22:20:14.442Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:14.442Z info: wait_for_selector:ok
+2018-10-02T22:20:14.442Z info: wait_for_selector:
+2018-10-02T22:20:14.442Z info:    #tocs-2 > ul
+2018-10-02T22:20:14.442Z info: await evaluate...attepmts left=299
+2018-10-02T22:20:14.443Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:14.443Z info: wait_for_selector:ok
+2018-10-02T22:20:14.976Z error: Empty tag parameter!
+2018-10-02T22:20:14.980Z info: init started
+2018-10-02T22:20:15.057Z info: init completed
+2018-10-02T22:20:15.058Z info: navigate started
+2018-10-02T22:20:15.750Z info: navigate completed
+2018-10-02T22:20:15.751Z info: wait_for_selector:
+2018-10-02T22:20:15.752Z info:    #post-content > div
+2018-10-02T22:20:15.752Z info: await evaluate...attepmts left=99
+2018-10-02T22:20:15.771Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:15.772Z info: waiting 300ms...
+2018-10-02T22:20:16.076Z info: waiting 300ms...ok
+2018-10-02T22:20:16.076Z info: await evaluate...attepmts left=98
+2018-10-02T22:20:16.097Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:16.097Z info: wait_for_selector:ok
+2018-10-02T22:20:16.748Z error: Empty tag parameter!
+2018-10-02T22:20:16.751Z info: init started
+2018-10-02T22:20:16.846Z info: init completed
+2018-10-02T22:20:16.847Z info: navigate started
+2018-10-02T22:20:17.491Z info: navigate completed
+2018-10-02T22:20:17.492Z info: wait_for_selector:
+2018-10-02T22:20:17.492Z info:    #post-content > div
+2018-10-02T22:20:17.492Z info: await evaluate...attepmts left=99
+2018-10-02T22:20:17.515Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-02T22:20:17.515Z info: waiting 300ms...
+2018-10-02T22:20:17.820Z info: waiting 300ms...ok
+2018-10-02T22:20:17.820Z info: await evaluate...attepmts left=98
+2018-10-02T22:20:17.837Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-02T22:20:17.837Z info: wait_for_selector:ok
+2018-10-02T22:20:18.486Z error: Empty tag parameter!
+2018-10-02T22:20:18.492Z info: init started
+2018-10-02T22:20:18.598Z info: init completed
+2018-10-02T22:20:18.599Z info: navigate started
+2018-10-03T20:40:26.728Z info: init started
+2018-10-03T20:40:26.823Z info: init completed
+2018-10-03T20:40:26.823Z info: navigate started
+2018-10-03T20:40:27.460Z info: navigate completed
+2018-10-03T20:40:27.461Z info: wait_for_selector:
+2018-10-03T20:40:27.461Z info:    #catAll
+2018-10-03T20:40:27.461Z info: await evaluate...attepmts left=99
+2018-10-03T20:40:27.529Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:40:27.530Z info: waiting 300ms...
+2018-10-03T20:40:27.842Z info: waiting 300ms...ok
+2018-10-03T20:40:27.842Z info: await evaluate...attepmts left=98
+2018-10-03T20:40:27.884Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:27.884Z info: wait_for_selector:ok
+2018-10-03T20:40:27.885Z info: wait_for_selector:
+2018-10-03T20:40:27.885Z info:    #catAll
+2018-10-03T20:40:27.885Z info: await evaluate...attepmts left=299
+2018-10-03T20:40:27.890Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:27.891Z info: wait_for_selector:ok
+2018-10-03T20:40:28.612Z info: init started
+2018-10-03T20:40:28.708Z info: init completed
+2018-10-03T20:40:28.709Z info: navigate started
+2018-10-03T20:40:28.897Z info: navigate completed
+2018-10-03T20:40:28.898Z info: wait_for_selector:
+2018-10-03T20:40:28.898Z info:    #content > div
+2018-10-03T20:40:28.899Z info: await evaluate...attepmts left=99
+2018-10-03T20:40:28.948Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:40:28.949Z info: waiting 300ms...
+2018-10-03T20:40:29.254Z info: waiting 300ms...ok
+2018-10-03T20:40:29.255Z info: await evaluate...attepmts left=98
+2018-10-03T20:40:29.257Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:29.257Z info: wait_for_selector:ok
+2018-10-03T20:40:29.262Z info: wait_for_selector:
+2018-10-03T20:40:29.262Z info:    #tocs-2 > ul
+2018-10-03T20:40:29.262Z info: await evaluate...attepmts left=99
+2018-10-03T20:40:29.830Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:40:29.830Z info: waiting 300ms...
+2018-10-03T20:40:30.130Z info: waiting 300ms...ok
+2018-10-03T20:40:30.130Z info: await evaluate...attepmts left=98
+2018-10-03T20:40:30.211Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:30.211Z info: wait_for_selector:ok
+2018-10-03T20:40:30.211Z info: wait_for_selector:
+2018-10-03T20:40:30.211Z info:    #tocs-2 > ul
+2018-10-03T20:40:30.211Z info: await evaluate...attepmts left=299
+2018-10-03T20:40:30.219Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:30.219Z info: wait_for_selector:ok
+2018-10-03T20:40:31.033Z error: Empty tag parameter!
+2018-10-03T20:40:31.039Z info: init started
+2018-10-03T20:40:31.164Z info: init completed
+2018-10-03T20:40:31.165Z info: navigate started
+2018-10-03T20:40:31.544Z info: navigate completed
+2018-10-03T20:40:31.545Z info: wait_for_selector:
+2018-10-03T20:40:31.545Z info:    #post-content > div
+2018-10-03T20:40:31.546Z info: await evaluate...attepmts left=99
+2018-10-03T20:40:31.627Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:40:31.627Z info: waiting 300ms...
+2018-10-03T20:40:31.934Z info: waiting 300ms...ok
+2018-10-03T20:40:31.934Z info: await evaluate...attepmts left=98
+2018-10-03T20:40:32.043Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:40:32.043Z info: wait_for_selector:ok
+2018-10-03T20:41:18.389Z info: init started
+2018-10-03T20:41:18.515Z info: init completed
+2018-10-03T20:41:18.515Z info: navigate started
+2018-10-03T20:41:18.932Z info: navigate completed
+2018-10-03T20:41:18.932Z info: wait_for_selector:
+2018-10-03T20:41:18.932Z info:    #catAll
+2018-10-03T20:41:18.932Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:18.948Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:18.948Z info: waiting 300ms...
+2018-10-03T20:41:19.252Z info: waiting 300ms...ok
+2018-10-03T20:41:19.252Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:19.255Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:19.255Z info: wait_for_selector:ok
+2018-10-03T20:41:19.255Z info: wait_for_selector:
+2018-10-03T20:41:19.255Z info:    #catAll
+2018-10-03T20:41:19.255Z info: await evaluate...attepmts left=299
+2018-10-03T20:41:19.258Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:19.258Z info: wait_for_selector:ok
+2018-10-03T20:41:19.919Z info: init started
+2018-10-03T20:41:20.025Z info: init completed
+2018-10-03T20:41:20.026Z info: navigate started
+2018-10-03T20:41:20.231Z info: navigate completed
+2018-10-03T20:41:20.232Z info: wait_for_selector:
+2018-10-03T20:41:20.232Z info:    #content > div
+2018-10-03T20:41:20.232Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:20.248Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:20.249Z info: waiting 300ms...
+2018-10-03T20:41:20.556Z info: waiting 300ms...ok
+2018-10-03T20:41:20.557Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:20.559Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:20.559Z info: wait_for_selector:ok
+2018-10-03T20:41:20.562Z info: wait_for_selector:
+2018-10-03T20:41:20.562Z info:    #tocs-2 > ul
+2018-10-03T20:41:20.562Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:21.167Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:21.168Z info: waiting 300ms...
+2018-10-03T20:41:21.469Z info: waiting 300ms...ok
+2018-10-03T20:41:21.469Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:21.533Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:21.533Z info: wait_for_selector:ok
+2018-10-03T20:41:21.533Z info: wait_for_selector:
+2018-10-03T20:41:21.533Z info:    #tocs-2 > ul
+2018-10-03T20:41:21.533Z info: await evaluate...attepmts left=299
+2018-10-03T20:41:21.577Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:21.577Z info: wait_for_selector:ok
+2018-10-03T20:41:22.433Z info: init started
+2018-10-03T20:41:22.556Z info: init completed
+2018-10-03T20:41:22.556Z info: navigate started
+2018-10-03T20:41:42.379Z info: init started
+2018-10-03T20:41:42.490Z info: init completed
+2018-10-03T20:41:42.490Z info: navigate started
+2018-10-03T20:41:42.964Z info: navigate completed
+2018-10-03T20:41:42.964Z info: wait_for_selector:
+2018-10-03T20:41:42.964Z info:    #catAll
+2018-10-03T20:41:42.964Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:42.979Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:42.979Z info: waiting 300ms...
+2018-10-03T20:41:43.286Z info: waiting 300ms...ok
+2018-10-03T20:41:43.286Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:43.289Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:43.290Z info: wait_for_selector:ok
+2018-10-03T20:41:43.290Z info: wait_for_selector:
+2018-10-03T20:41:43.290Z info:    #catAll
+2018-10-03T20:41:43.290Z info: await evaluate...attepmts left=299
+2018-10-03T20:41:43.292Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:43.292Z info: wait_for_selector:ok
+2018-10-03T20:41:43.997Z info: init started
+2018-10-03T20:41:44.098Z info: init completed
+2018-10-03T20:41:44.098Z info: navigate started
+2018-10-03T20:41:44.287Z info: navigate completed
+2018-10-03T20:41:44.287Z info: wait_for_selector:
+2018-10-03T20:41:44.288Z info:    #content > div
+2018-10-03T20:41:44.288Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:44.305Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:44.306Z info: waiting 300ms...
+2018-10-03T20:41:44.615Z info: waiting 300ms...ok
+2018-10-03T20:41:44.615Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:44.622Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:44.622Z info: wait_for_selector:ok
+2018-10-03T20:41:44.629Z info: wait_for_selector:
+2018-10-03T20:41:44.629Z info:    #tocs-2 > ul
+2018-10-03T20:41:44.629Z info: await evaluate...attepmts left=99
+2018-10-03T20:41:45.236Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:41:45.236Z info: waiting 300ms...
+2018-10-03T20:41:45.537Z info: waiting 300ms...ok
+2018-10-03T20:41:45.537Z info: await evaluate...attepmts left=98
+2018-10-03T20:41:45.577Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:45.577Z info: wait_for_selector:ok
+2018-10-03T20:41:45.577Z info: wait_for_selector:
+2018-10-03T20:41:45.577Z info:    #tocs-2 > ul
+2018-10-03T20:41:45.577Z info: await evaluate...attepmts left=299
+2018-10-03T20:41:45.658Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:41:45.658Z info: wait_for_selector:ok
+2018-10-03T20:41:46.527Z info: init started
+2018-10-03T20:41:46.679Z info: init completed
+2018-10-03T20:41:46.680Z info: navigate started
+2018-10-03T20:47:11.562Z info: init started
+2018-10-03T20:47:11.658Z info: init completed
+2018-10-03T20:47:11.659Z info: navigate started
+2018-10-03T20:47:12.183Z info: navigate completed
+2018-10-03T20:47:12.184Z info: wait_for_selector:
+2018-10-03T20:47:12.184Z info:    #catAll
+2018-10-03T20:47:12.184Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:12.201Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:12.201Z info: waiting 300ms...
+2018-10-03T20:47:12.508Z info: waiting 300ms...ok
+2018-10-03T20:47:12.508Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:12.511Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:12.512Z info: wait_for_selector:ok
+2018-10-03T20:47:12.512Z info: wait_for_selector:
+2018-10-03T20:47:12.512Z info:    #catAll
+2018-10-03T20:47:12.512Z info: await evaluate...attepmts left=299
+2018-10-03T20:47:12.514Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:12.514Z info: wait_for_selector:ok
+2018-10-03T20:47:13.235Z info: init started
+2018-10-03T20:47:13.342Z info: init completed
+2018-10-03T20:47:13.342Z info: navigate started
+2018-10-03T20:47:13.533Z info: navigate completed
+2018-10-03T20:47:13.534Z info: wait_for_selector:
+2018-10-03T20:47:13.535Z info:    #content > div
+2018-10-03T20:47:13.535Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:13.547Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:13.548Z info: waiting 300ms...
+2018-10-03T20:47:13.853Z info: waiting 300ms...ok
+2018-10-03T20:47:13.853Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:13.856Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:13.856Z info: wait_for_selector:ok
+2018-10-03T20:47:13.861Z info: wait_for_selector:
+2018-10-03T20:47:13.861Z info:    #tocs-2 > ul
+2018-10-03T20:47:13.861Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:14.465Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:14.465Z info: waiting 300ms...
+2018-10-03T20:47:14.766Z info: waiting 300ms...ok
+2018-10-03T20:47:14.766Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:14.801Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:14.801Z info: wait_for_selector:ok
+2018-10-03T20:47:14.801Z info: wait_for_selector:
+2018-10-03T20:47:14.802Z info:    #tocs-2 > ul
+2018-10-03T20:47:14.802Z info: await evaluate...attepmts left=299
+2018-10-03T20:47:14.807Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:14.807Z info: wait_for_selector:ok
+2018-10-03T20:47:15.676Z info: init started
+2018-10-03T20:47:15.804Z info: init completed
+2018-10-03T20:47:15.804Z info: navigate started
+2018-10-03T20:47:16.588Z info: navigate completed
+2018-10-03T20:47:16.589Z info: wait_for_selector:
+2018-10-03T20:47:16.589Z info:    #post-content > div
+2018-10-03T20:47:16.589Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:16.603Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:16.604Z info: waiting 300ms...
+2018-10-03T20:47:16.914Z info: waiting 300ms...ok
+2018-10-03T20:47:16.914Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:16.944Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:16.944Z info: wait_for_selector:ok
+2018-10-03T20:47:17.807Z info: init started
+2018-10-03T20:47:50.810Z info: init started
+2018-10-03T20:47:50.936Z info: init completed
+2018-10-03T20:47:50.937Z info: navigate started
+2018-10-03T20:47:51.372Z info: navigate completed
+2018-10-03T20:47:51.373Z info: wait_for_selector:
+2018-10-03T20:47:51.373Z info:    #catAll
+2018-10-03T20:47:51.373Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:51.383Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:51.383Z info: waiting 300ms...
+2018-10-03T20:47:51.690Z info: waiting 300ms...ok
+2018-10-03T20:47:51.690Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:51.693Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:51.693Z info: wait_for_selector:ok
+2018-10-03T20:47:51.693Z info: wait_for_selector:
+2018-10-03T20:47:51.694Z info:    #catAll
+2018-10-03T20:47:51.694Z info: await evaluate...attepmts left=299
+2018-10-03T20:47:51.695Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:51.696Z info: wait_for_selector:ok
+2018-10-03T20:47:52.519Z info: init started
+2018-10-03T20:47:52.632Z info: init completed
+2018-10-03T20:47:52.633Z info: navigate started
+2018-10-03T20:47:52.837Z info: navigate completed
+2018-10-03T20:47:52.837Z info: wait_for_selector:
+2018-10-03T20:47:52.837Z info:    #content > div
+2018-10-03T20:47:52.837Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:52.849Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:52.849Z info: waiting 300ms...
+2018-10-03T20:47:53.153Z info: waiting 300ms...ok
+2018-10-03T20:47:53.153Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:53.156Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:53.156Z info: wait_for_selector:ok
+2018-10-03T20:47:53.160Z info: wait_for_selector:
+2018-10-03T20:47:53.160Z info:    #tocs-2 > ul
+2018-10-03T20:47:53.160Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:53.880Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:53.880Z info: waiting 300ms...
+2018-10-03T20:47:54.181Z info: waiting 300ms...ok
+2018-10-03T20:47:54.181Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:54.220Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:54.220Z info: waiting 300ms...
+2018-10-03T20:47:54.521Z info: waiting 300ms...ok
+2018-10-03T20:47:54.521Z info: await evaluate...attepmts left=97
+2018-10-03T20:47:54.523Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:54.523Z info: wait_for_selector:ok
+2018-10-03T20:47:54.524Z info: wait_for_selector:
+2018-10-03T20:47:54.524Z info:    #tocs-2 > ul
+2018-10-03T20:47:54.524Z info: await evaluate...attepmts left=299
+2018-10-03T20:47:54.525Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:54.525Z info: wait_for_selector:ok
+2018-10-03T20:47:55.265Z info: init started
+2018-10-03T20:47:55.372Z info: init completed
+2018-10-03T20:47:55.372Z info: navigate started
+2018-10-03T20:47:56.012Z info: navigate completed
+2018-10-03T20:47:56.013Z info: wait_for_selector:
+2018-10-03T20:47:56.013Z info:    #post-content > div
+2018-10-03T20:47:56.013Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:56.028Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:56.028Z info: waiting 300ms...
+2018-10-03T20:47:56.334Z info: waiting 300ms...ok
+2018-10-03T20:47:56.334Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:56.373Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:56.373Z info: wait_for_selector:ok
+2018-10-03T20:47:57.398Z info: init started
+2018-10-03T20:47:57.498Z info: init completed
+2018-10-03T20:47:57.498Z info: navigate started
+2018-10-03T20:47:58.060Z info: navigate completed
+2018-10-03T20:47:58.061Z info: wait_for_selector:
+2018-10-03T20:47:58.061Z info:    #post-content > div
+2018-10-03T20:47:58.061Z info: await evaluate...attepmts left=99
+2018-10-03T20:47:58.076Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:47:58.077Z info: waiting 300ms...
+2018-10-03T20:47:58.384Z info: waiting 300ms...ok
+2018-10-03T20:47:58.384Z info: await evaluate...attepmts left=98
+2018-10-03T20:47:58.397Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:47:58.397Z info: wait_for_selector:ok
+2018-10-03T20:47:59.268Z info: init started
+2018-10-03T20:47:59.392Z info: init completed
+2018-10-03T20:47:59.392Z info: navigate started
+2018-10-03T20:48:00.052Z info: navigate completed
+2018-10-03T20:48:00.052Z info: wait_for_selector:
+2018-10-03T20:48:00.052Z info:    #post-content > div
+2018-10-03T20:48:00.052Z info: await evaluate...attepmts left=99
+2018-10-03T20:48:00.066Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:48:00.066Z info: waiting 300ms...
+2018-10-03T20:48:00.372Z info: waiting 300ms...ok
+2018-10-03T20:48:00.372Z info: await evaluate...attepmts left=98
+2018-10-03T20:48:00.420Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:48:00.420Z info: wait_for_selector:ok
+2018-10-03T20:48:01.550Z info: init started
+2018-10-03T20:48:01.691Z info: init completed
+2018-10-03T20:48:01.692Z info: navigate started
+2018-10-03T20:48:02.468Z info: navigate completed
+2018-10-03T20:48:02.469Z info: wait_for_selector:
+2018-10-03T20:48:02.469Z info:    #post-content > div
+2018-10-03T20:48:02.469Z info: await evaluate...attepmts left=99
+2018-10-03T20:48:02.490Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:48:02.491Z info: waiting 300ms...
+2018-10-03T20:48:02.797Z info: waiting 300ms...ok
+2018-10-03T20:48:02.797Z info: await evaluate...attepmts left=98
+2018-10-03T20:48:02.922Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:48:02.922Z info: wait_for_selector:ok
+2018-10-03T20:50:13.578Z info: init started
+2018-10-03T20:50:13.687Z info: init completed
+2018-10-03T20:50:13.687Z info: navigate started
+2018-10-03T20:50:14.254Z info: navigate completed
+2018-10-03T20:50:14.254Z info: wait_for_selector:
+2018-10-03T20:50:14.255Z info:    #catAll
+2018-10-03T20:50:14.255Z info: await evaluate...attepmts left=99
+2018-10-03T20:50:14.272Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:50:14.272Z info: waiting 300ms...
+2018-10-03T20:50:14.579Z info: waiting 300ms...ok
+2018-10-03T20:50:14.579Z info: await evaluate...attepmts left=98
+2018-10-03T20:50:14.588Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:14.588Z info: wait_for_selector:ok
+2018-10-03T20:50:14.588Z info: wait_for_selector:
+2018-10-03T20:50:14.588Z info:    #catAll
+2018-10-03T20:50:14.588Z info: await evaluate...attepmts left=299
+2018-10-03T20:50:14.590Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:14.590Z info: wait_for_selector:ok
+2018-10-03T20:50:15.499Z info: init started
+2018-10-03T20:50:15.658Z info: init completed
+2018-10-03T20:50:15.659Z info: navigate started
+2018-10-03T20:50:15.837Z info: navigate completed
+2018-10-03T20:50:15.839Z info: wait_for_selector:
+2018-10-03T20:50:15.839Z info:    #content > div
+2018-10-03T20:50:15.839Z info: await evaluate...attepmts left=99
+2018-10-03T20:50:15.870Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:50:15.871Z info: waiting 300ms...
+2018-10-03T20:50:16.179Z info: waiting 300ms...ok
+2018-10-03T20:50:16.179Z info: await evaluate...attepmts left=98
+2018-10-03T20:50:16.204Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:16.205Z info: wait_for_selector:ok
+2018-10-03T20:50:16.218Z info: wait_for_selector:
+2018-10-03T20:50:16.219Z info:    #tocs-2 > ul
+2018-10-03T20:50:16.219Z info: await evaluate...attepmts left=99
+2018-10-03T20:50:16.845Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:50:16.845Z info: waiting 300ms...
+2018-10-03T20:50:17.147Z info: waiting 300ms...ok
+2018-10-03T20:50:17.148Z info: await evaluate...attepmts left=98
+2018-10-03T20:50:17.175Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:50:17.175Z info: waiting 300ms...
+2018-10-03T20:50:17.476Z info: waiting 300ms...ok
+2018-10-03T20:50:17.477Z info: await evaluate...attepmts left=97
+2018-10-03T20:50:17.481Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:17.482Z info: wait_for_selector:ok
+2018-10-03T20:50:17.482Z info: wait_for_selector:
+2018-10-03T20:50:17.482Z info:    #tocs-2 > ul
+2018-10-03T20:50:17.483Z info: await evaluate...attepmts left=299
+2018-10-03T20:50:17.488Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:17.488Z info: wait_for_selector:ok
+2018-10-03T20:50:18.397Z info: init started
+2018-10-03T20:50:18.521Z info: init completed
+2018-10-03T20:50:18.522Z info: navigate started
+2018-10-03T20:50:18.903Z info: navigate completed
+2018-10-03T20:50:18.904Z info: wait_for_selector:
+2018-10-03T20:50:18.904Z info:    #post-content > div
+2018-10-03T20:50:18.904Z info: await evaluate...attepmts left=99
+2018-10-03T20:50:18.920Z info: await evaluate...ok result={"type":"string","value":"TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'."}
+2018-10-03T20:50:18.921Z info: waiting 300ms...
+2018-10-03T20:50:19.229Z info: waiting 300ms...ok
+2018-10-03T20:50:19.229Z info: await evaluate...attepmts left=98
+2018-10-03T20:50:19.305Z info: await evaluate...ok result={"type":"boolean","value":false}
+2018-10-03T20:50:19.305Z info: wait_for_selector:ok
+2018-10-03T20:50:20.367Z info: init started
+2018-10-03T20:50:20.476Z info: init completed
+2018-10-03T20:50:20.477Z info: navigate started

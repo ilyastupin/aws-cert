@@ -1,0 +1,65 @@
+1) Get dirty questions
+Parameters
+sql db, dbname, port, user and password
+group-name
+
+
+
+
+
+ilyastupin@USMAP-L268:/mnt/c/Users/ilya.stupin/Desktop/Work/deploy16$ node --version
+v8.11.3
+ilyastupin@USMAP-L268:/mnt/c/Users/ilya.stupin/Desktop/Work/deploy16$ npm --version
+5.6.0
+ilyastupin@USMAP-L268:/mnt/c/Users/ilya.stupin/Desktop/Work/deploy16$
+
+
+google-chrome --headless --hide-scrollbars --remote-debugging-port=9222 --disable-gpu -- no-sandbox &
+
+
+CDP=require
+
+const Promise = require('bluebird');
+
+
+
+
+install google-chrome
+
+
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+sudo apt-get update 
+sudo apt-get install google-chrome-stable
+
+google-chrome --headless --hide-scrollbars --remote-debugging-port=9222 --disable-gpu -- no-sandbox &
+
+
+node briefmenow_question_urls.js --exam-url http://www.briefmenow.org/amazon/category/exam-aws-sap-update-june-4th-2017/  
+node briefmenow_question_data.js --question-url http://www.briefmenow.org/amazon/what-could-be-happening-5/ | node sha-512.js
+
+node briefmenow_question_data.js --question-url http://www.briefmenow.org/amazon/how-is-aws-readily-distinguished-from-other-vendors-in-2
+
+
+
+
+
+cat /mnt/c/Users/ilya.stupin/Desktop/Work/deploy01/nodes/us01qe2con21.json | \
+jq -r '.name as $n | .automatic.ipaddress as $i | .automatic.network as $d | .automatic.network.interfaces as $nis | $nis | keys[] as $ni | $nis[$ni].addresses | keys[] as $ad | 
+$n + " " + $i + " " + $d.default_interface + " " + $d.default_gateway + " " + $ni + " " + $ad + " " + $nis[$ni].addresses[$ad].netmask | select ($nis[$ni].addresses[$ad].netmask != null | .)' 
+
+mysql --host 127.0.0.1 --user=root --password=password aws_exam
+
+CREATE TABLE pet (name VARCHAR(20), owner VARCHAR(20), -> species VARCHAR(20), sex CHAR(1), birth DATE, death DATE); 
+
+mysqldump 
+
+
+load data local infile 'file.csv' into table table
+ fields terminated by ','
+ enclosed by '"'
+ lines terminated by '\n'
+ (column1, column2, column3,...)
+
+#   node briefmenow_question_urls.js --exam-url $href  | jq -r --arg value "$tag" '[.[] | . + {"tag" : $value}]' > "portions/$tag.json"
+

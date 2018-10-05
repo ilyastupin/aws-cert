@@ -1,0 +1,272 @@
+[
+  {
+    "href": "http://www.briefmenow.org/amazon/which-recommendations-can-help-ensure-load-testing-http-requests-are-evenly-distributed-across-the-four-webservers",
+    "text": "Question 1  (23 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-are-correct-statements-with-policy-evaluation-logic-in-aws-identity-and-access-management",
+    "text": "Question 2  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-can-you-secure-data-at-rest-on-an-ebs-volume",
+    "text": "Question 3  (15 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-naming-scheme-would-give-optimal-performance-on-s3",
+    "text": "Question 4  (27 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-a-possible-solution-for-this",
+    "text": "Question 5  (12 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-steps-will-allow-company-c-to-meet-this-requirement",
+    "text": "Question 6  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-statements-about-sqs-is-true",
+    "text": "Question 7  (15 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/a-given-public-ami-can",
+    "text": "Question 8  (16 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-process-below-will-result-in-successful-processing-of-the-message-and-remove-it-from-the-queue-while-minimizing-the-chances-of-duplicate-processing",
+    "text": "Question 9  (12 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-the-format-of-structured-notification-messages-sent-by-amazon-sns",
+    "text": "Question 10  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-approach-below-provides-the-least-impact-to-provisioned-throughput-on-the-ampquotproductampquot-table",
+    "text": "Question 11  (5 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-dynamodb-limits-can-be-raised-by-contacting-aws-support",
+    "text": "Question 12  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-items-are-required-to-allow-an-application-deployed-on-an-ec2-instance-to-write-data-to-a-dynamodb-table",
+    "text": "Question 13  (14 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-ec2-api-call-would-you-use-to-retrieve-a-list-of-amazon-machine-images-amis",
+    "text": "Question 14  (14 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-the-region-specific-website-endpoint",
+    "text": "Question 15  (9 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-two-approaches-can-satisfy-the-objectives",
+    "text": "Question 16  (14 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/you-advise-them-to",
+    "text": "Question 17  (13 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-type-of-block-cipher-does-amazon-s3-offer-for-server-side-encryption",
+    "text": "Question 18  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-a-possible-solution-to-prevent-this-happening",
+    "text": "Question 19  (9 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-is-an-example-of-a-good-dynamodb-hash-key-schema-for-provisioned-throughput-efficiency",
+    "text": "Question 20  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-statements-about-dynamodb-are-true",
+    "text": "Question 21  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-could-be-an-explanation-for-this",
+    "text": "Question 22  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-can-company-a-provide-only-paid-subscribers-the-ability-to-download-a-premier-content-file-in-the-s3-bucket",
+    "text": "Question 23  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-happens-by-default-when-one-of-the-resources-in-a-cloudformation-stack-cannot-be-created",
+    "text": "Question 24  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-the-maximum-number-of-s3-buckets-available-per-aws-account",
+    "text": "Question 25  (9 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-are-valid-arguments-for-an-sns-publish-request",
+    "text": "Question 26  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-much-write-throughput-is-required-for-the-target-table",
+    "text": "Question 27  (12 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-platforms-are-supported-by-elastic-beanstalk",
+    "text": "Question 28  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-could-explain-this-behavior",
+    "text": "Question 29  (11 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-features-can-be-used-to-restrict-access-to-data-in-s3",
+    "text": "Question 30  (18 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-security-aspects-are-the-customers-responsibility",
+    "text": "Question 31  (16 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-aws-products-and-features-can-be-deployed-by-elastic-beanstalk",
+    "text": "Question 32  (12 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-an-effective-method-to-mitigate-this",
+    "text": "Question 33  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-the-most-secure-approach-for-signing-requests-to-the-dynamodb-api",
+    "text": "Question 34  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-code-snippet-below-returns-the-url-of-a-load-balanced-web-site-created-in-cloudformation",
+    "text": "Question 35  (12 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-the-most-efficient-way-to-manage-these-items-after-the-analysis",
+    "text": "Question 36  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-statements-about-swf-are-true",
+    "text": "Question 37  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-should-company-d-do-to-prevent-the-web-fonts-from-being-blocked-by-the-browser",
+    "text": "Question 38  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-is-provisioned-throughput-affected-by-the-chosen-consistency-model-when-reading-data-from-a-dynamodb-table",
+    "text": "Question 39  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-request-header-can-be-explicitly-specified-in-a-request-to-amazon-s3-to-encrypt-object-data-when-saved-on-the-server-side",
+    "text": "Question 40  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-are-valid-sns-delivery-transports",
+    "text": "Question 41  (5 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-should-you-do-to-enable-internet-access",
+    "text": "Question 42  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-can-software-determine-the-public-and-private-ip-addresses-of-the-amazon-ec2-instance-that-it-is-running-on",
+    "text": "Question 43  (9 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-services-are-included-at-no-additional-cost-with-the-use-of-the-aws-platform",
+    "text": "Question 44  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-programming-languages-have-an-officially-supported-aws-sdk",
+    "text": "Question 45  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-steps-could-resolve-the-issue",
+    "text": "Question 46  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-is-chosen-as-the-default-region-when-making-an-api-call-with-an-aws-sdk",
+    "text": "Question 47  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-technique-can-be-used-to-minimize-the-impact-of-a-scan-on-a-tables-provisioned-throughput",
+    "text": "Question 48  (11 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-of-the-following-services-are-keyvalue-stores",
+    "text": "Question 49  (13 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/which-table-configuration-will-result-in-the-lowest-impact-on-provisioned-throughput-for-this-query",
+    "text": "Question 50  (6 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-is-one-key-difference-between-an-amazon-ebs-backed-and-an-instance-store-backed-instance",
+    "text": "Question 51  (7 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/how-can-company-b-reduce-the-number-of-empty-responses",
+    "text": "Question 52  (10 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-item-operation-allows-the-retrieval-of-multiple-items-from-a-dynamodb-table-in-a-single-api-call",
+    "text": "Question 53  (9 comments)",
+    "tag": "briefmenow AWS-CDA"
+  },
+  {
+    "href": "http://www.briefmenow.org/amazon/what-type-of-http-response-codes-indicate-that-a-problem-was-found-with-the-client-request-sent-to-the-service",
+    "text": "Question 54  (8 comments)",
+    "tag": "briefmenow AWS-CDA"
+  }
+]
