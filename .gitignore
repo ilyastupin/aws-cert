@@ -1,0 +1,10 @@
+questions
+questions/*
+portions
+portions/*
+.git
+node_modules/*
+node_modules
+nohup.out
+error.log
+combined.log

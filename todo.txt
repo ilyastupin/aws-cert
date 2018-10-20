@@ -63,3 +63,7 @@ load data local infile 'file.csv' into table table
 
 #   node briefmenow_question_urls.js --exam-url $href  | jq -r --arg value "$tag" '[.[] | . + {"tag" : $value}]' > "portions/$tag.json"
 
+
+
+
+nohup ./download_all_briefmenow_questions.sh &
