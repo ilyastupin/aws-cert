@@ -65,5 +65,21 @@ load data local infile 'file.csv' into table table
 
 
 
+http://jayendrapatil.com
+
+
+http://jayendrapatil.com/feed/
+http://jayendrapatil.com/comments/feed/
+http://jayendrapatil.com/comments/wp-json/
+http://jayendrapatil.com/comments/about/
+http://jayendrapatil.com/comments/contact/
+
+
+
+
+bash -c 'ssh -i "~/.ssh/ilia-stupin-oregon-keypair.pem" ubuntu@ec2-54-212-247-167.us-west-2.compute.amazonaws.com'
+
+
+
 
 nohup ./download_all_briefmenow_questions.sh &
