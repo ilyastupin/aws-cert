@@ -83,3 +83,13 @@ bash -c 'ssh -i "~/.ssh/ilia-stupin-oregon-keypair.pem" ubuntu@ec2-54-212-247-16
 
 
 nohup ./download_all_briefmenow_questions.sh &
+
+Wha we have now
+1) briefmenow_exams.js  - list of exams
+2) briefmenow_question_urls.js - list of questions from one exam
+3) briefmenow_question_data.js - extract question data from one exam
+4) jayendrapatil_pages - list of pages from jayendrapatil.com
+
+
+
+

@@ -250,6 +250,10 @@ async function get_urls_texts_inside_element(selector) {
    return (await evaluate(snippet)).result.value;
 }
 
+function wait_onload_event() {
+   console.log("wait_onload_event()")
+}
+
 module.exports = {
    init: init,
    navigate: navigate,
@@ -270,6 +274,7 @@ module.exports = {
    execute: evaluate,
    get_elements_with_positions: get_elements_with_positions,
    get_urls_texts_inside_element: get_urls_texts_inside_element,
+   wait_onload_event: wait_onload_event,
    done: done
 };
 
