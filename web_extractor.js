@@ -250,8 +250,10 @@ async function get_urls_texts_inside_element(selector) {
    return (await evaluate(snippet)).result.value;
 }
 
-function wait_onload_event() {
-   console.log("wait_onload_event()")
+async function wait_onload_event() {
+   logger.info("wait_onload_event()");
+   await Page.loadEventFired();
+   logger.info("wait_onload_event() - done");
 }
 
 module.exports = {

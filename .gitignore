@@ -8,3 +8,6 @@ node_modules
 nohup.out
 error.log
 combined.log
+jayendrapatil_questions
+jayendrapatil_questions/*
+*.tar
